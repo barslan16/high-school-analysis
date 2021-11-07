@@ -1,0 +1,13 @@
+numpy
+pandas
+beautifulsoup4
+xlsxwriter
+selenium
+plotly
+xlrd
+statsmodels
+patsy
+seaborn
+matplotlib
+stargazer
+IPython
