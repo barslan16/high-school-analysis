@@ -87,7 +87,7 @@ The code repository is organized into the following components:
 ## Releases and Contributing
 
 - Please let us know if you encounter any bugs by filing a Github issue.
-- We appreciate all your contributions. If you plan to contribute a new Method, Data, or anything else, please see our [contribution guidelines](https://www.github.com/asen16/high-schools-analysis/blob/main/CONTRIBUTING.md).
+- We appreciate all your contributions. If you plan to contribute a new Method, Data, or anything else, please see our [contribution guidelines](https://github.com/barslan16/high-school-analysis/blob/main/CONTRIBUTING.md).
 
 ## Changelog
 
