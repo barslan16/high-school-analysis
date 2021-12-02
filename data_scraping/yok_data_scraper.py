@@ -174,7 +174,7 @@ for unikod in unikods:
                     print("finds nothing")
                     time.sleep(5)
                 if len(soup1.findAll("td", {"class": "thb small"}))==0:
-                    print("finds nothing"")
+                    print("finds nothing")
                 else:
                     for i in range(len(soup1.findAll("td", {"class": "thb small"}))):
                         if i==0:
